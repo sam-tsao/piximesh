@@ -1,4 +1,11 @@
 
+- [About](#about)
+- [Usage](#usage)
+  - [Construction Options](#construction-options)
+  - [Methods](#methods)
+  - [Notes](#notes)
+- [Examples](#examples)
+  - [Triangle](#triangle)
 # About 
 
 A helper class for creating meshes in [PixiJS](https://pixijs.com/) with an API
